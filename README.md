@@ -37,9 +37,9 @@ Extensive experiments on public benchmarks demonstrate that APasco achieves supe
 
 # Results
 
-https://github.com/user-attachments/assets/09861fcc-18b0-4eae-9d7d-f298f3bdc181
+[https://github.com/user-attachments/assets/09861fcc-18b0-4eae-9d7d-f298f3bdc181](https://github.com/pcl3dv/APasco/blob/main/assets/our.mp4)
 
-https://github.com/user-attachments/assets/0cdd3f0c-efbf-415b-be80-252fb4a5f121
+[https://github.com/user-attachments/assets/0cdd3f0c-efbf-415b-be80-252fb4a5f121](https://github.com/pcl3dv/APasco/blob/main/assets/our1.mp4)
 
 <br>
 
