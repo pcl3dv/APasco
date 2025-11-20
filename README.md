@@ -18,7 +18,7 @@
     <sup>*</sup>corresponding author
 </div>
 
-### [Paper](https://arxiv.org/abs/2505.13839) | [Project](https://zhenybao.github.io/MGStream/)  | Code 
+### [Paper](https://ebooks.iospress.nl/volumearticle/76129?_gl=1*10k29o5*_up*MQ..*_ga*MTYwNjQ4ODkyMC4xNzYzNjI3MTA2*_ga_6N3Q0141SM*czE3NjM2MjcxMDYkbzEkZzEkdDE3NjM2MjcxMzAkajM2JGwwJGgw) | [Project](https://zhenybao.github.io/MGStream/)  | Code 
 
 </div>
 
