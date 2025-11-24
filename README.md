@@ -43,6 +43,31 @@ Extensive experiments on public benchmarks demonstrate that APasco achieves supe
 
 <br>
 
+## Installation
+
+- System requirement: Ubuntu 20.04/Ubuntu 22.04, Cuda 12.1
+- Tested GPUs: A100
+
+Create conda environment:
+
+```bash
+  conda create -n apasco python=3.10
+  conda activate apasco
+```
+
+Install packages with `pip`
+
+```bash
+  pip install -r requirements.txt
+  pip install .
+```
+
+Install ffmpeg :
+```bash
+  apt-get install ffmpeg
+```
+
+
 ## Citation
 
 Cite as below if you find this repository is helpful to your project:
