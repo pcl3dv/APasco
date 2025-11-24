@@ -75,7 +75,11 @@ Install ffmpeg :
 - [StableDiffusion V1.5](https://huggingface.co/runwayml/stable-diffusion-v1-5): Initialized and fine-tuned from Stable-Diffusion-v1-2. (_Thanks to [runwayml](https://huggingface.co/runwayml)_)
 - [wav2vec](https://huggingface.co/facebook/wav2vec2-base-960h): wav audio to vector model from [Facebook](https://huggingface.co/facebook/wav2vec2-base-960h).
 
+###  Run Inference
 
+```bash
+python scripts/inference.py --source_image examples/reference_images/test.jpg --driving_audio examples/driving_audios/test.wav
+```
 
 ## Citation
 
